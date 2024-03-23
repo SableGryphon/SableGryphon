@@ -28,15 +28,17 @@
 
 <h2 align="center">My Github Stats</h2>
 <p align="center">
-	  discord_old_blurple: {
-    title_color: "7289DA",
-    icon_color: "7289DA",
-    text_color: "FFFFFF",
-    bg_color: "2C2F33",
-  },
 	<img
 		align="center"
-		src="https://github-readme-stats.vercel.app/api?username=sablegryphonc&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite"
+		src="https://github-readme-stats.vercel.app/api/top-langs/?username=soham4abc&&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite"
 	/>
-
+	<img
+		align="center"
+		src="https://github-readme-stats.vercel.app/api?username=soham4abc&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite"
+	/>
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SableGryphon&theme=dracula">
+	<img
+		align="center"
+		src="https://github-profile-trophy.vercel.app/?username=SableGryphon&theme=onedark"
+	/>
 </p>
