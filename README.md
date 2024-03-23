@@ -25,3 +25,20 @@
 [![Visits Badge](https://badges.pufler.dev/visits/RahulMahesh62/RahulMahesh62?style=for-the-badge)](https://github.com/SableGryphon)
 
 </p>
+
+<h2 align="center">My Github Stats</h2>
+<p align="center">
+	<img
+		align="center"
+		src="https://github-readme-stats.vercel.app/api/top-langs/?username=soham4abc&&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite"
+	/>
+	<img
+		align="center"
+		src="https://github-readme-stats.vercel.app/api?username=soham4abc&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite"
+	/>
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soham4abc&theme=dracula">
+	<img
+		align="center"
+		src="https://github-profile-trophy.vercel.app/?username=soham4abc&theme=onedark"
+	/>
+</p>
